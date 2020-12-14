@@ -1,6 +1,6 @@
 # Product Recommendation System
 
-Inspired from Kaggle Santander Product Recommendation Challenger
+Inspired from  Santander Product Recommendation Kaggle Challenger
 
 Click [here] to find data and original version
 
